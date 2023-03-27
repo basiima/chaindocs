@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>Chain docs client(Frontend)</b>
+    <b>Chaindocs client(User Interface)</b>
     <br>
 </h1>
 ---
