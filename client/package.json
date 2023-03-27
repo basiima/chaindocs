@@ -1,7 +1,7 @@
 {
-  "name": "ChainDocs",
-  "version": "2.0.0",
-  "title": "ChainDocs Frontend",
+  "name": "chaindocs",
+  "version": "0.0.0",
+  "title": "chaindocs UI",
   "description": "An open source software for document verification using blockchain.",
   "author": {
     "name": "basiima",
